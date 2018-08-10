@@ -5,5 +5,5 @@
 
 export const environment = {
   production: false,
-  apiUrl: 'localhost:8585'
+  apiUrl: 'https://employee-service-cerebral-overtimidness.cfapps.io/'
 };
